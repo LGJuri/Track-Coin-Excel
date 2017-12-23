@@ -1,4 +1,4 @@
-rack-Coin-Excel
+Track-Coin-Excel.
 This Excel File will keep track of all your cryptocurrencies, by giving you the amount of money you made/loss
 Simply download the .exe file and enable the makro (upper side of the screen). You will find the sheets (Analyse, DataBank and MyCoins)
 
