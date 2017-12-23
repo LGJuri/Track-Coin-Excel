@@ -1,6 +1,6 @@
 Track-Coin-Excel.
 This Excel File will keep track of all your cryptocurrencies, by giving you the amount of money you made/loss
-Simply download the .exe file and enable the click on enable content (upper side of the screen) in the sheets Analyse ans MyCoins. You will find the sheets (Analyse, DataBank and MyCoins)
+Simply download the .exe file and enable the click on "enable content" (upper side of the screen) in the sheets Analyse ans MyCoins. You will find the sheets (Analyse, DataBank and MyCoins)
 
 In Analyse you can Select a coin and a price where you would like to sell that coin.
 Press the button "Calculate" an the program will give you all information about it, such:
